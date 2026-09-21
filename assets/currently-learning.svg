@@ -1,0 +1,79 @@
+<svg width="500" height="230" viewBox="0 0 500 230"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Fundo do card -->
+  <rect
+    x="2"
+    y="2"
+    width="496"
+    height="226"
+    rx="10"
+    fill="#0D1117"
+    stroke="#8B5CF6"
+    stroke-width="2"
+  />
+
+  <!-- Título -->
+  <text
+    x="30"
+    y="45"
+    fill="#BD5FFF"
+    font-size="22"
+    font-family="Arial, sans-serif"
+    font-weight="bold">
+    Currently Learning
+  </text>
+
+  <!-- JavaScript -->
+  <circle cx="32" cy="85" r="6" fill="#F7DF1E" />
+  <text x="50" y="91" fill="#FFFFFF"
+        font-size="15" font-family="Arial, sans-serif">
+    JavaScript
+  </text>
+  <text x="330" y="91" fill="#22C55E"
+        font-size="14" font-family="monospace">
+    [ ACTIVE ]
+  </text>
+
+  <!-- Node.js -->
+  <circle cx="32" cy="115" r="6" fill="#5FA04E" />
+  <text x="50" y="121" fill="#FFFFFF"
+        font-size="15" font-family="Arial, sans-serif">
+    Node.js
+  </text>
+  <text x="330" y="121" fill="#38BDF8"
+        font-size="14" font-family="monospace">
+    [ LEARNING ]
+  </text>
+
+  <!-- Git / GitHub -->
+  <circle cx="32" cy="145" r="6" fill="#F05032" />
+  <text x="50" y="151" fill="#FFFFFF"
+        font-size="15" font-family="Arial, sans-serif">
+    Git / GitHub
+  </text>
+  <text x="330" y="151" fill="#22C55E"
+        font-size="14" font-family="monospace">
+    [ ACTIVE ]
+  </text>
+
+  <!-- Backend -->
+  <circle cx="32" cy="175" r="6" fill="#A855F7" />
+  <text x="50" y="181" fill="#FFFFFF"
+        font-size="15" font-family="Arial, sans-serif">
+    Backend
+  </text>
+  <text x="330" y="181" fill="#F59E0B"
+        font-size="14" font-family="monospace">
+    [ LOADING... ]
+  </text>
+
+  <!-- Rodapé -->
+  <text x="30" y="210"
+        fill="#8B949E"
+        font-size="13"
+        font-family="monospace">
+    &gt; building knowledge_
+  </text>
+
+</svg>
