@@ -54,7 +54,3 @@ backend            [ LOADING... ]
 ```
 
 ---
-
-## 📊 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raydev-fullstack&layout=compact)
